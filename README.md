@@ -1,4 +1,4 @@
-<p align="center"><img width="40%" src="logo/PyTorch_logo.png" /></p>
+<p align="center"><img width="30%" src="logo/PyTorch_logo.png" /></p>
 
 --------------------------------------------------------------------------------
 * This repository provides the tutorial code of ten classic examples for learning [PyTorch](https://github.com/pytorch/pytorch). 
